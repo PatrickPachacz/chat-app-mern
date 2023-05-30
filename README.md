@@ -8,3 +8,4 @@ Full Stack chat app that performs real time messaging via Socket.io. App built u
 
 # Screenshot
 <img src="loginpage.jpg" />
+<img src="chatpage1.jpg" />
