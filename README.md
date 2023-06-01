@@ -6,7 +6,8 @@ Full Stack chat app that performs real time messaging via Socket.io. App built u
 * Server / Backend: Node JS + Express JS
 * Database: Mongo DB
 
-# Screenshot
+# Features + Screenshots
+<h3>Login/Signup<h3>
 <img src="loginpage.jpg" />
 <img src="chatpage1.jpg" />
 <img src="realtime.jpg" />
